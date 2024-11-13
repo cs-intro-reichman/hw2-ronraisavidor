@@ -41,7 +41,7 @@ public class Collatz {
                     System.out.print(currentNum + " ");
                     count++;
                 }
-                // Print the number of steps in parentheses after reaching 1
+                // Print the number of steps
                 System.out.println("(" + (count + 1) + ")");		
 			}
 		}	

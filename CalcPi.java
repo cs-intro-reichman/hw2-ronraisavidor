@@ -18,7 +18,7 @@ public class CalcPi {
 		// Multiply the sum by 4 to get the approximation of π
 		piSum = piSum * 4;
 
-		System.out.println("pi, approximated: " + piSum);
+		System.out.println("pi, approximated:     " + piSum);
 
 	}
 }
